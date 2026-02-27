@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
     string name;
-    int student_ID;
+    string student_ID;
     cout<<("Enter your name:");
     cin>>name;
     cout<<"Hello "<<name<<endl;
